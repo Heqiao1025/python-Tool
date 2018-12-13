@@ -11,3 +11,7 @@ cocoapod组件一键打包，
 * 项目路径下（与podspec文件同级）
 * 修改私有private_pod_repo_name
 * 执行python podRelease.py
+
+### tinypng网站压缩脚本
+直接运行然后将待压缩文件路径拖入，等待完成。
+网站地址：https://tinypng.com
